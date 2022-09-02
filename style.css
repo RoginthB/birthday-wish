@@ -26,7 +26,7 @@ section{
     font-family: 'Secular One', sans-serif;
 
 }
-@media screen and (max-width: 360px){
+@media screen and (max-width: 400px){
     section{
         width: 100%;
         height: auto;
